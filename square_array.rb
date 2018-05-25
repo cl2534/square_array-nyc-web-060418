@@ -12,5 +12,6 @@ end
   result 
 end 
 
-
+#def square_array(array)
+  array.inject(1){|
   
