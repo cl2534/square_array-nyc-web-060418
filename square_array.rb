@@ -11,7 +11,7 @@ end
 def square_array(array)
   result = array.collect{|i| i ** 2}
   result 
-end *# 
+end 
 =end 
  
   
