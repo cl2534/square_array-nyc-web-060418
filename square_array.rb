@@ -7,10 +7,11 @@ def square_array(array)
   result 
 end
 
-#*def square_array(array)
+=begin 
+def square_array(array)
   result = array.collect{|i| i ** 2}
   result 
 end *# 
-
+=end 
  
   
